@@ -1,0 +1,761 @@
+2022-11-11 10:38:35,505 - default - [ERROR] Storable-load_from_file data/blockchain.json [Errno 2] No such file or directory: 'data/blockchain.json'
+2022-11-11 10:38:35,505 - default - [ERROR] Client-load_node [Errno 2] No such file or directory: 'data/node.json'
+2022-11-11 10:38:35,519 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-11 10:38:35,519 - default - [INFO] Creating chat log for .gitignore
+2022-11-11 10:39:00,303 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-11 10:39:00,303 - default - [INFO] Creating chat log for .gitignore
+2022-11-11 10:39:11,805 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-11 10:39:11,805 - default - [INFO] Creating chat log for .gitignore
+2022-11-11 10:39:21,884 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-11 10:39:21,884 - default - [INFO] Creating chat log for .gitignore
+2022-11-11 10:39:30,857 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-11 10:39:30,858 - default - [INFO] Creating chat log for .gitignore
+2022-11-11 11:07:47,078 - default - [ERROR] Storable-load_from_file data/blockchain.json [Errno 2] No such file or directory: 'data/blockchain.json'
+2022-11-11 11:07:47,087 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-11 11:07:47,088 - default - [INFO] Creating chat log for .gitignore
+2022-11-11 11:07:47,109 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-11 11:07:47,110 - default - [INFO] Creating chat log for .gitignore
+2022-11-11 11:07:47,383 - default - [DEBUG] [BLOCK - 0] Broadcasting Block
+2022-11-11 11:07:47,439 - default - [DEBUG] [BLOCK - 0] Broadcast ended. 0/2 peers received the message
+2022-11-11 11:12:22,107 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-11 11:12:22,107 - default - [INFO] Creating chat log for .gitignore
+2022-11-11 11:24:01,837 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-11 11:24:01,837 - default - [INFO] Creating chat log for .gitignore
+2022-11-11 11:30:59,563 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-11 11:30:59,563 - default - [INFO] Creating chat log for .gitignore
+2022-11-11 11:35:13,949 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-11 11:35:13,950 - default - [INFO] Creating chat log for .gitignore
+2022-11-11 11:52:42,427 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-11 11:52:42,428 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 00:12:06,121 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 00:12:06,122 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 00:20:08,795 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 00:20:08,795 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 11:13:24,494 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 11:13:24,495 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 11:26:37,024 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 11:26:37,054 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 11:26:39,146 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 11:26:39,146 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 11:31:40,155 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 11:31:40,156 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 11:31:45,251 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 11:31:45,251 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 11:31:47,469 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 11:31:47,469 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 11:31:49,050 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 11:31:49,051 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 11:31:50,778 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 11:31:50,779 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 11:32:09,670 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 11:32:09,670 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 11:34:45,587 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 11:34:45,587 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 11:58:19,481 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 11:58:19,482 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 13:04:32,526 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 13:04:32,527 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 13:22:15,580 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 13:22:15,580 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 13:30:04,334 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 13:30:04,334 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 13:35:17,611 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 13:35:17,611 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 15:26:27,384 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 15:26:27,385 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 15:30:50,436 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 15:30:50,436 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 15:31:40,121 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 15:31:40,123 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 15:32:51,112 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 15:32:51,112 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 15:32:56,491 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 15:32:56,491 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 15:32:59,730 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 15:32:59,730 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 15:50:55,995 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 15:50:55,995 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 16:20:06,792 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 16:20:06,793 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 16:20:09,701 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 16:20:09,701 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 16:20:11,084 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 16:20:11,084 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 16:20:12,188 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 16:20:12,188 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 16:20:13,275 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 16:20:13,275 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 16:20:15,419 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 16:20:15,420 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 16:22:08,642 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 16:22:08,642 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 16:23:06,698 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 16:23:06,698 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 21:42:28,186 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 21:42:28,187 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 22:00:17,609 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 22:00:17,610 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 22:00:23,793 - default - [INFO] Started mining...
+2022-11-12 22:00:23,800 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 22:00:23,800 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 22:00:27,969 - default - [INFO] Stopped mining...
+2022-11-12 22:00:27,972 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 22:00:27,972 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 22:02:08,620 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 22:02:08,620 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 22:07:28,961 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 22:07:28,961 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 22:12:34,393 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 22:12:34,395 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 22:12:38,686 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 22:12:38,686 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 22:14:06,305 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 22:14:06,305 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 22:36:41,902 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 22:36:41,902 - default - [INFO] Creating chat log for .gitignore
+2022-11-12 22:36:44,849 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-12 22:36:44,849 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 19:02:52,442 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 19:02:52,451 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 19:03:31,042 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 19:03:31,043 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 19:53:59,240 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 19:53:59,241 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 20:02:22,108 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 20:02:22,108 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 20:02:35,366 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 20:02:35,367 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 20:03:56,677 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 20:03:56,678 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 20:04:42,553 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 20:04:42,553 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 20:06:39,072 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 20:06:39,072 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 20:18:48,400 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 20:18:48,401 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 20:18:55,281 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 20:18:55,281 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 20:23:11,160 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 20:23:11,160 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 20:24:11,970 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 20:24:11,970 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 20:25:11,404 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 20:25:11,405 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 20:26:36,625 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 20:26:36,625 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 20:51:49,277 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 20:51:49,278 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 20:51:50,437 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 20:51:50,438 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 20:51:54,276 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 20:51:54,277 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 20:51:56,533 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 20:51:56,533 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 20:52:04,422 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 20:52:04,423 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 20:52:58,514 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 20:52:58,514 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 20:54:12,448 - default - [INFO] Started mining...
+2022-11-13 20:54:12,516 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 20:54:12,517 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 20:54:14,040 - default - [INFO] Stopped mining...
+2022-11-13 20:54:14,044 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 20:54:14,044 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 20:54:15,118 - default - [INFO] Started mining...
+2022-11-13 20:54:15,329 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 20:54:15,329 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 20:54:16,445 - default - [INFO] Stopped mining...
+2022-11-13 20:54:16,449 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 20:54:16,449 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 21:12:41,969 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 21:12:41,969 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 21:13:29,739 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 21:13:29,739 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 21:13:53,822 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 21:13:53,822 - default - [INFO] Creating chat log for .gitignore
+2022-11-13 21:21:51,009 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-13 21:21:51,009 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 00:11:54,464 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 00:11:54,465 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 00:42:38,660 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 00:42:38,661 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 00:42:56,512 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 00:42:56,512 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 00:57:25,597 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 00:57:25,597 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 00:58:32,011 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 00:58:32,012 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 00:59:45,313 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 00:59:45,313 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 01:00:44,116 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 01:00:44,116 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 01:13:58,013 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 01:13:58,014 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 01:21:59,685 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 01:21:59,685 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 01:25:24,824 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 01:25:24,825 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 01:34:37,405 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 01:34:37,405 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 01:36:37,225 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 01:36:37,225 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 01:37:38,221 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 01:37:38,221 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 01:38:59,021 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 01:38:59,022 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 01:42:13,387 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 01:42:13,388 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 01:43:23,521 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 01:43:23,521 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 01:48:18,369 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 01:48:18,370 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 01:53:04,890 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 01:53:04,890 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 01:56:38,616 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 01:56:38,616 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 01:57:54,716 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 01:57:54,716 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 01:57:58,271 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 01:57:58,271 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 01:59:24,304 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 01:59:24,304 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:00:31,523 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:00:31,524 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:00:40,211 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:00:40,212 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:01:39,253 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:01:39,254 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:01:48,558 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:01:48,559 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:02:27,935 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:02:27,935 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:02:51,410 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:02:51,410 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:05:19,220 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:05:19,221 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:09:42,250 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:09:42,250 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:10:21,426 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:10:21,426 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:15:32,266 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:15:32,266 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:16:32,045 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:16:32,046 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:18:52,343 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:18:52,343 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:19:08,052 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:19:08,052 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:21:57,154 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:21:57,154 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:24:09,324 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:24:09,325 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:25:38,603 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:25:38,604 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:26:10,692 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:26:10,692 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:26:27,176 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:26:27,176 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:26:37,885 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:26:37,888 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:28:06,775 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:28:06,776 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:28:16,088 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:28:16,089 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:28:31,699 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:28:31,700 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:30:00,478 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:30:00,478 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:31:18,117 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:31:18,117 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:31:26,837 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:31:26,838 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:31:50,232 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:31:50,232 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:31:59,384 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:31:59,384 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:32:54,773 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:32:54,773 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:38:36,071 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:38:36,071 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:39:03,499 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:39:03,500 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:40:51,838 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:40:51,838 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:41:02,420 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:41:02,421 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:44:49,507 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:44:49,508 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:45:55,248 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:45:55,249 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:47:08,651 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:47:08,651 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:47:26,721 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:47:26,721 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:49:11,430 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:49:11,430 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:49:22,962 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:49:22,963 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:52:59,605 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:52:59,605 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:56:50,501 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:56:50,501 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:57:33,188 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:57:33,188 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 02:59:55,444 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 02:59:55,444 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:04:51,239 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:04:51,240 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:05:27,716 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:05:27,716 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:05:29,645 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:05:29,646 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:06:54,589 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:06:54,589 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:07:17,943 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:07:17,944 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:08:46,365 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:08:46,366 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:10:00,140 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:10:00,140 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:10:18,223 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:10:18,223 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:11:21,091 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:11:21,091 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:12:05,758 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:12:05,759 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:13:53,093 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:13:53,093 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:16:46,187 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:16:46,187 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:17:21,174 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:17:21,174 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:17:29,080 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:17:29,081 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:18:04,066 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:18:04,066 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:19:01,903 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:19:01,903 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:19:53,261 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:19:53,261 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:20:02,338 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:20:02,338 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:20:28,945 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:20:28,945 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:23:38,519 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:23:38,519 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:23:42,258 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:23:42,258 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:24:17,763 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:24:17,763 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:24:17,777 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:24:17,777 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:24:18,486 - default - [DEBUG] [TRANSACTION - 59167547d60abcaf7ebd1f5d8c78e76e] Broadcasting Transaction
+2022-11-14 03:24:18,549 - default - [DEBUG] [TRANSACTION - 59167547d60abcaf7ebd1f5d8c78e76e] Broadcast ended. 0/2 peers received the message
+2022-11-14 03:24:35,262 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:24:35,262 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:27:17,134 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:27:17,134 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:27:24,849 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:27:24,849 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:28:35,525 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:28:35,526 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:28:50,560 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:28:50,560 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:28:54,710 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:28:54,711 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:30:02,157 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:30:02,157 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:30:03,828 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:30:03,829 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:34:05,183 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:34:05,183 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:34:11,192 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:34:11,193 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:43:04,560 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:43:04,560 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:43:11,573 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:43:11,573 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:45:14,676 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:45:14,677 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:45:18,305 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:45:18,305 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:47:22,117 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:47:22,117 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:47:25,923 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:47:25,924 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:49:40,757 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:49:40,757 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:49:48,427 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:49:48,428 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:51:10,536 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:51:10,537 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 03:51:12,300 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 03:51:12,300 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:06:47,950 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:06:47,951 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:06:51,077 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:06:51,078 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:07:48,762 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:07:48,762 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:07:50,502 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:07:50,502 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:08:48,590 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:08:48,591 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:08:49,961 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:08:49,961 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:10:14,032 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:10:14,033 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:10:15,412 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:10:15,413 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:12:13,080 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:12:13,084 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:12:14,531 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:12:14,531 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:12:45,327 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:12:45,327 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:12:48,645 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:12:48,646 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:16:50,856 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:16:50,857 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:16:52,389 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:16:52,391 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:21:35,987 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:21:35,988 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:21:37,706 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:21:37,706 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:24:24,637 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:24:24,637 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:24:25,804 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:24:25,804 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:32:21,070 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:32:21,071 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:32:22,382 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:32:22,383 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:33:52,240 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:33:52,240 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:33:53,654 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:33:53,654 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:34:24,450 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:34:24,450 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:34:25,508 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:34:25,508 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:46:15,226 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:46:15,226 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:47:16,069 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:47:16,069 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 10:47:49,036 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 10:47:49,036 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 15:17:59,174 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 15:17:59,175 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 15:18:40,667 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 15:18:40,668 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 15:18:40,883 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 15:18:40,883 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 15:20:54,315 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 15:20:54,316 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 16:23:02,033 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 16:23:02,061 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 16:23:05,642 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 16:23:05,643 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 16:23:45,936 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 16:23:45,936 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 16:24:21,116 - default - [INFO] Started mining...
+2022-11-14 16:24:21,943 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 16:24:21,954 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 16:24:36,369 - default - [INFO] Stopped mining...
+2022-11-14 16:24:36,375 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 16:24:36,375 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 16:24:52,476 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 16:24:52,476 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 17:06:03,167 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 17:06:03,170 - default - [INFO] Creating chat log for .gitignore
+2022-11-14 17:06:03,196 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-14 17:06:03,196 - default - [INFO] Creating chat log for .gitignore
+2022-11-17 09:35:57,254 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-17 09:35:57,266 - default - [INFO] Creating chat log for .gitignore
+2022-11-17 09:36:13,836 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-17 09:36:13,836 - default - [INFO] Creating chat log for .gitignore
+2022-11-17 09:36:23,921 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-17 09:36:23,921 - default - [INFO] Creating chat log for .gitignore
+2022-11-17 09:36:35,042 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-17 09:36:35,043 - default - [INFO] Creating chat log for .gitignore
+2022-11-17 11:29:26,654 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-17 11:29:26,655 - default - [INFO] Creating chat log for .gitignore
+2022-11-17 11:29:31,247 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-17 11:29:31,247 - default - [INFO] Creating chat log for .gitignore
+2022-11-17 11:51:20,229 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-17 11:51:20,230 - default - [INFO] Creating chat log for .gitignore
+2022-11-17 11:51:23,362 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-17 11:51:23,367 - default - [INFO] Creating chat log for .gitignore
+2022-11-17 11:51:32,368 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-17 11:51:32,368 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 20:21:57,802 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 20:21:57,802 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 20:22:03,188 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 20:22:03,188 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 21:18:26,138 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 21:18:26,139 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 21:18:29,158 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 21:18:29,159 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 21:18:56,915 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 21:18:56,916 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 21:32:10,670 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 21:32:10,672 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 21:32:11,926 - default - [INFO] Started mining...
+2022-11-20 21:32:12,359 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 21:32:12,375 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 21:33:39,240 - default - [DEBUG] [TRANSACTION - b1316b523a938a49cbf19101200ecd7d] Validated
+2022-11-20 21:33:40,214 - default - [DEBUG] [TRANSACTION - b1316b523a938a49cbf19101200ecd7d] Broadcasting Transaction
+2022-11-20 21:33:42,260 - default - [DEBUG] [TRANSACTION - b1316b523a938a49cbf19101200ecd7d] Broadcast ended. 1/2 peers received the message
+2022-11-20 23:39:38,475 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 23:39:38,475 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 23:40:07,597 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 23:40:07,597 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 23:40:16,646 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 23:40:16,646 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 23:40:16,681 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 23:40:16,681 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 23:40:17,197 - default - [DEBUG] [TRANSACTION - f9e1de455f6e8390db3f8ff93ad9ca97] Broadcasting Transaction
+2022-11-20 23:40:19,239 - default - [DEBUG] [TRANSACTION - f9e1de455f6e8390db3f8ff93ad9ca97] Broadcast ended. 1/2 peers received the message
+2022-11-20 23:49:38,912 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 23:49:38,912 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 23:49:41,317 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 23:49:41,317 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 23:49:55,405 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 23:49:55,405 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 23:53:02,031 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 23:53:02,031 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 23:53:04,223 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 23:53:04,223 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 23:53:15,003 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 23:53:15,003 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 23:53:54,828 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 23:53:54,828 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 23:55:40,387 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 23:55:40,387 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 23:58:26,944 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 23:58:26,944 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 23:58:35,988 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 23:58:35,988 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 23:58:36,032 - default - [ERROR] Storable-load_from_file data/chats/1231241.json [Errno 2] No such file or directory: 'data/chats/1231241.json'
+2022-11-20 23:58:36,032 - default - [INFO] Creating chat log for 1231241
+2022-11-20 23:58:47,148 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 23:58:47,148 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 23:58:59,403 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 23:58:59,404 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 23:58:59,441 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-20 23:58:59,441 - default - [INFO] Creating chat log for .gitignore
+2022-11-20 23:59:00,284 - default - [DEBUG] [TRANSACTION - 82c1c9dbfe810bd5bfd7f2fdc46c753c] Broadcasting Transaction
+2022-11-20 23:59:02,334 - default - [DEBUG] [TRANSACTION - 82c1c9dbfe810bd5bfd7f2fdc46c753c] Broadcast ended. 1/2 peers received the message
+2022-11-21 14:47:21,228 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 14:47:21,228 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 14:48:06,114 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 14:48:06,114 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 14:50:36,605 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 14:50:36,605 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 14:50:37,654 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 14:50:37,654 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 14:54:55,247 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 14:54:55,247 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 14:55:08,265 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 14:55:08,265 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 15:12:41,740 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 15:12:41,740 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 15:12:45,073 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 15:12:45,073 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 15:13:21,025 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 15:13:21,025 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 15:15:58,243 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 15:15:58,244 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 15:25:42,157 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 15:25:42,157 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 15:25:43,798 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 15:25:43,798 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 15:27:30,621 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 15:27:30,621 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 15:27:55,080 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 15:27:55,080 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 15:27:56,882 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 15:27:56,882 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 15:30:05,777 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 15:30:05,777 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 15:30:08,140 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 15:30:08,140 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 15:44:15,256 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 15:44:15,256 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 15:44:16,614 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 15:44:16,614 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 15:55:30,997 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 15:55:30,997 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 15:55:34,151 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 15:55:34,151 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 16:04:53,986 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 16:04:53,986 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 16:04:56,034 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 16:04:56,035 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 16:08:48,013 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 16:08:48,013 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 16:08:49,974 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 16:08:49,975 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 16:25:06,223 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 16:25:06,223 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 16:25:08,056 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 16:25:08,056 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 16:33:08,686 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 16:33:08,686 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 16:33:10,368 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 16:33:10,368 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 16:35:25,550 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 16:35:25,550 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 16:35:28,212 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 16:35:28,212 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 17:35:05,408 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 17:35:05,409 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 17:35:06,981 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 17:35:06,981 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 17:35:15,147 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 17:35:15,148 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 17:35:15,187 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 17:35:15,187 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 17:35:15,443 - default - [DEBUG] [TRANSACTION - d5345799b0bdbfe28dbdaa2d86d6d942] Broadcasting Transaction
+2022-11-21 17:35:17,516 - default - [DEBUG] [TRANSACTION - d5345799b0bdbfe28dbdaa2d86d6d942] Broadcast ended. 0/2 peers received the message
+2022-11-21 19:44:22,477 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 19:44:22,477 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 19:44:24,620 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 19:44:24,620 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 19:48:14,814 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 19:48:14,814 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 19:48:20,909 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 19:48:20,909 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 19:51:26,160 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 19:51:26,161 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 19:51:27,870 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 19:51:27,870 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 19:52:05,420 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 19:52:05,420 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 19:52:06,859 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 19:52:06,859 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 19:53:20,560 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 19:53:20,561 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 19:53:22,306 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 19:53:22,306 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 19:53:59,937 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 19:53:59,937 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 19:54:01,668 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 19:54:01,668 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 19:55:58,178 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 19:55:58,178 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 19:55:59,932 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 19:55:59,932 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 20:20:10,999 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 20:20:11,000 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 20:28:36,400 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 20:28:36,400 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 20:28:38,318 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 20:28:38,318 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 20:33:26,607 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 20:33:26,608 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 20:43:17,047 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 20:43:17,048 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 21:16:43,048 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 21:16:43,048 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 21:16:44,995 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 21:16:44,995 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 21:22:15,884 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 21:22:15,884 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 21:27:06,373 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 21:27:06,373 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 21:29:24,768 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 21:29:24,768 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 21:29:34,821 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 21:29:34,821 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 21:30:22,799 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 21:30:22,799 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 22:28:23,395 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 22:28:23,395 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 22:28:32,458 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 22:28:32,459 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 22:28:51,906 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 22:28:51,906 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 22:28:57,183 - default - [INFO] Started mining...
+2022-11-21 22:28:57,617 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-21 22:28:57,633 - default - [INFO] Creating chat log for .gitignore
+2022-11-21 22:29:40,751 - default - [DEBUG] [TRANSACTION - e47394790901a3eec506bb212e88c296] Validated
+2022-11-21 22:29:41,293 - default - [DEBUG] [TRANSACTION - e47394790901a3eec506bb212e88c296] Broadcasting Transaction
+2022-11-21 22:29:43,341 - default - [DEBUG] [TRANSACTION - e47394790901a3eec506bb212e88c296] Broadcast ended. 1/2 peers received the message
+2022-11-22 10:09:05,308 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 10:09:05,308 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 10:09:11,305 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 10:09:11,305 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 10:14:55,375 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 10:14:55,375 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 13:25:23,386 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 13:25:23,386 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 13:28:59,896 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 13:28:59,896 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 13:31:41,383 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 13:31:41,383 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 13:31:59,888 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 13:31:59,888 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:05:39,498 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:05:39,498 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:05:49,757 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:05:49,757 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:05:49,811 - default - [ERROR] Storable-load_from_file data/chats/Henry.json [Errno 2] No such file or directory: 'data/chats/Henry.json'
+2022-11-22 14:05:49,811 - default - [INFO] Creating chat log for Henry
+2022-11-22 14:06:27,617 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:06:27,617 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:06:27,624 - default - [DEBUG] [TRANSACTION - 5ad21d8e00524a9687d34f96c3246351] Broadcasting Transaction
+2022-11-22 14:06:27,674 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:06:27,674 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:08:48,846 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:08:48,846 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:09:00,247 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:09:00,247 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:09:18,786 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:09:18,786 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:09:18,791 - default - [DEBUG] [TRANSACTION - e281e6f0e645c27c2ace1e2a10d59c90] Broadcasting Transaction
+2022-11-22 14:09:18,836 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:09:18,836 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:18:14,229 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:18:14,229 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:18:22,810 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:18:22,810 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:25:19,006 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:25:19,007 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:25:26,852 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:25:26,852 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:25:44,112 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:25:44,112 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:25:44,159 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:25:44,159 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:25:45,015 - default - [DEBUG] [TRANSACTION - e0f816cea4f53ccaa5b6c24a8f11c881] Broadcasting Transaction
+2022-11-22 14:29:58,227 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:29:58,227 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:30:08,087 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:30:08,087 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:30:08,131 - default - [ERROR] Storable-load_from_file data/chats/Panda.json [Errno 2] No such file or directory: 'data/chats/Panda.json'
+2022-11-22 14:30:08,131 - default - [INFO] Creating chat log for Panda
+2022-11-22 14:30:26,051 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:30:26,052 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:30:26,104 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:30:26,104 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:30:26,245 - default - [DEBUG] [TRANSACTION - a66f2b2fe6da9d246c9e3d6eede82fbf] Broadcasting Transaction
+2022-11-22 14:32:17,713 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:32:17,713 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:32:25,801 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:32:25,802 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:32:40,091 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:32:40,092 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:32:40,146 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:32:40,146 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:32:40,657 - default - [DEBUG] [TRANSACTION - e56ab2dbb83f7b3a7879dff05bc39198] Broadcasting Transaction
+2022-11-22 14:43:36,730 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:43:36,730 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:43:43,888 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:43:43,888 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:43:56,845 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:43:56,845 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:43:56,898 - default - [ERROR] Storable-load_from_file data/chats/.gitignore.json [Errno 2] No such file or directory: 'data/chats/.gitignore.json'
+2022-11-22 14:43:56,898 - default - [INFO] Creating chat log for .gitignore
+2022-11-22 14:43:57,301 - default - [DEBUG] [TRANSACTION - 3cecbd41951ddc98a583ff57fdc18de5] Broadcasting Transaction
