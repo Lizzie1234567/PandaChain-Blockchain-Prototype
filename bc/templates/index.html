@@ -1,0 +1,112 @@
+<!-- extend base layout -->
+{% extends "base.html" %}
+
+{% block content %}
+
+<!--<div class="container">-->
+<!--    <div class="selected-account__tooltip-wrapper">-->
+<!--    <div class="" tabindex="0" style="display: inline;" data-tooltipped="" aria-describedby="tippy-tooltip-1" data-original-title="Copy to clipboard">-->
+<!--        <button class="selected-account__clickable">-->
+<!--            <div class="selected-account__name">{{ user.address }}</div>-->
+<!--            <div class="selected-account__address">{{ user.identity }}-->
+<!--                <div class="selected-account__copy">-->
+<!--                <svg width="11" height="11" viewBox="0 0 11 11" fill="none" xmlns="http://www.w3.org/2000/svg">-->
+<!--                    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H1H9V1H1V9H0V0ZM2 2H11V11H2V2ZM3 3H10V10H3V3Z" fill="var(&#45;&#45;color-icon-alternative)"></path>-->
+<!--                </svg>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </button>-->
+<!--    </div>-->
+<!--</div>-->
+<!--</div>-->
+
+
+<div class="list-group text-center">
+            <div class="list-group-item list-group-item-action " aria-current="true">
+                <i class="fas fa-id-badge fa-2x"></i>
+                <div class="d-flex gap-2 w-100 justify-content-between">
+                    <div>
+                        <h4 class="mb-0">CLIENT ID</h4>
+                        <p class="mb-0 opacity-70" style="overflow-wrap: anywhere;">{{ user.identity}}</p>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+                <div class="d-flex gap-2 justify-content-between">
+                    <div>
+                        <h2 class="mb-0">Balance</h2>
+                        {% for utxo in user.my_UTXOs %}
+                            <p class="mb-0 opacity-50"><i class="fab fa-connectdevelop"></i> {{utxo.cached_balance}} | UTXO ({{ utxo }})</p>
+                        {% else %}
+                            <p class="mb-0 opacity-75">Need charge</p>
+                            <p class="mb-0 opacity-50">(UTXO list is empty!)</p>
+                        {% endfor %}
+                    </div>
+                    <span class="opacity-75 text-nowrap"><i class="fab fa-connectdevelop"></i> {{ user.balance }}</span>
+                </div>
+            </a>
+
+            {% if user.__class__.__name__ == 'Miner' %} {# Terrible way to do this... Anyways... IDK Jinja #}
+            <form class="list-group-item list-group-item-action d-grid" action="{{ url_for('index') }}" method="post">
+                {% if user.is_mining %}
+                    <input type="submit" class="btn btn-danger" name="toggle_mining" value="Stop Mining">
+                {%  else %}
+                    <input type="submit" class="btn btn-success" name="toggle_mining" value="Start Mining">
+                {% endif %}
+            </form>
+            {% endif %}
+        </div>
+
+ <div>
+  <ul id="myTab" class="nav nav-tabs nav-justified" role="tablist" >
+    <li role="presentation" class=""><a href="#send" aria-controls="send" role="tab" data-toggle="tab">send</a></li>
+    <li role="presentation"><a href="#transactions" aria-controls="transactions" role="tab" data-toggle="tab">transactions</a></li>
+  </ul>
+     <!-- Tab panes -->
+     <div id="myTabContent" class="tab-content" data-toggle="tab">
+        <div role="tabpanel" class="tab-pane active" id="send">
+
+            <div class="list-group">
+            <div class="list-group-item list-group-item-action center-block" aria-current="true">
+                <form class="form-group  text-center" action="{{ url_for('start_chat') }}" method="post">
+                    <label for="chat_id" class="form-label text-info"><strong>Send to: </strong></label>
+                    <div class="container">
+                    <div class="input-group" style="width:94%">
+
+                            <input type="text" class="form-control input-lg" style="width:100%" name="chat_id" id="chat_id" placeholder="Public address or name of friend" value="" required="">
+
+                            <input type="submit" style="width:100%" class="input-group-text btn btn-primary btn-block" value="SEND">
+
+                    </div>
+                    </div>
+                </form>
+            </div>
+            <p class="list-group-item text-center text-info"><strong>Recently traded with</strong></p>
+            {% for chat in chats %}
+                <a href="chat/{{chat.other_address}}" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+                    <div class="d-flex gap-2 w-100 justify-content-between">
+                        <div>
+                            <h6 class="mb-0">{{ chat.friendly_name }}</h6>
+                        </div>
+                    </div>
+                </a>
+            {% else %}
+                <div class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+                </div>
+            {% endfor %}
+        </div>
+
+        </div>
+    <div role="tabpanel" class="tab-pane" id="transactions">
+        <p>
+            jiaoyi
+        </p>
+    </div>
+  </div>
+    </div>
+
+
+
+
+
+{% endblock %}

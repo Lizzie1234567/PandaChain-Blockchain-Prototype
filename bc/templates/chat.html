@@ -1,0 +1,116 @@
+<!-- extend base layout -->
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="row">
+		<div class="container col-md-offset-4 col-md-4">
+			<form class="list-group" action="" method="POST" enctype="multipart/form-data">
+				<div class="list-group-item list-group-item-action justify-content-between" aria-current="true">
+					<div class="opacity:0.5" style="display:block;margin:1;font-size:20px;">Account name: {{ other }}</div>
+				</div>
+				<div class="list-group-item list-group-item-action">
+					<div class="input-group justify-content-block">
+						<div class="container"  style="display:block;margin:1;font-size:20px;height:60px">
+							<span class="input-group-text">
+								<i class="glyphicon glyphicon-usd"></i>
+							</span>
+							<input type="text" class="input-group-text" name="blabber_send" id="blabber_send" value="" placeholder="How much u want to send" required>
+						</div>
+						<div class="container"  style="display:block;margin:1;font-size:20px;height:60px">
+							<span class="input-group-text">
+								<i class="glyphicon glyphicon-tint"></i>
+							</span>
+							<input type="text" class="input-group-text" name="blabber_gas" id="blabber_gas" value="" placeholder="This is gas" required>
+						</div>
+						<div class="container"  style="display:block;margin:1;font-size:20px;height:60px">
+							<span class="input-group-text">
+								<i class="glyphicon glyphicon-comment"></i>
+							</span>
+<!--							<input type="text" class="form-control" name="text_message" id="text_message" placeholder="Description of transfer" value="">-->
+							<input type="text" class="input-group-text" name="text_message" id="text_message" placeholder="Description of transfer" value="">
+						</div>
+<!--						<div class="container"  style="display:block;margin:1;font-size:20px;height:60px">-->
+<!--							<select class="form-select" data-width="fit" name="msg_type" id="msg_type">-->
+<!--								<option value="1">ENCRYPTED</option>-->
+<!--								<option value="0" selected>PLAIN</option>-->
+<!--					  		</select>-->
+<!--						</div>-->
+						<div class="container justify-content-block"  style="display:block;margin:1;font-size:20px;height:60px">
+							<span class="input-group-text">
+								<i class="glyphicon glyphicon-send"></i>
+							</span>
+							<input type="submit" class="input-group-text btn btn-primary btn-cycle" style="margin:1;font-size:20px;height:60px" value="Send">
+						</div>
+						<br>
+<!--						<label for="file_img" style="font-size:20px;height:60px" class="input-group-text btn btn-outline-secondary">-->
+<!--							<i class="glyphicon glyphicon-circle-arrow-right"></i>-->
+<!--						</label>-->
+<!--						<input id="file_img" name="file_img" style="display: none; font-size:20px;height:60px" type="file" accept="image/png, image/gif, image/jpeg"/>-->
+<!--						<span class="input-group-text">-->
+<!--							<i class="glyphicon glyphicon-file"></i>-->
+<!--						</span>-->
+						<br>
+					</div>
+
+					<div class="opacity:0.5 text-end" style="display:block;margin:1;font-size:20px;height:60px">Available money for transfer: <i class="glyphicon glyphicon-circle-arrow-right"></i> {{ user.balance }}</div>
+				</div>
+
+<!--				{% for msg_inst in chat.messages|filter_sorted(reverse=true) %}-->
+<!--				<div class="list-group-item list-group-item-action justify-content-between" aria-current="true">-->
+<!--					<div>-->
+<!--						{% if msg_inst.sender == user.identity %}-->
+<!--							<h6 class="mb-1">You</h6>-->
+<!--						{% else %}-->
+<!--							<h6 class="mb-1">Other guy</h6>-->
+<!--						{% endif %}-->
+<!--						{% if msg_inst.message.message_type in [1, 2] %}-->
+<!--							<p class="mb-0 opacity-75">-->
+<!--								{{ msg_inst.message.message }} {# ??!?! Good job Vasil! #}-->
+<!--							</p>-->
+<!--						{% elif msg_inst.message.message_type in [3, 4] %}-->
+<!--							<p class="mb-0 opacity-75">-->
+<!--								<img src="{{ msg_inst.message.get_image_src() }}" />-->
+<!--							</p>-->
+<!--						{% else %}-->
+<!--							<small>-->
+<!--								{{ msg_inst.message.message_type }}-->
+<!--							</small>-->
+<!--						{% endif %}-->
+<!--						<small class="opacity-50 text-nowrap position-absolute bottom-0 end-0 m-2 px-2">-->
+<!--							 <i class="fab fa-connectdevelop"></i> {{ msg_inst.value }}-->
+<!--						</small>-->
+<!--					</div>-->
+<!--					<small class="opacity-50 text-nowrap pull-right">{{ msg_inst.timestamp|pretty_date }}</small>-->
+<!--                </div>-->
+<!--				{% else %}-->
+<!--				<div class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">-->
+<!--                    <p class="mb-0 opacity-75">-->
+<!--                        Beginning a conversation is simpler than you think... Why don't you just start with a-->
+<!--						"<strong>hi!</strong>"? (☞ﾟ∀ﾟ)☞-->
+<!--                    </p>-->
+<!--                </div>-->
+<!--				{% endfor %}-->
+			</form>
+		</div>
+</div>
+
+
+
+
+<!--    {% for post in posts %}-->
+<!--    <div class="post_box">-->
+<!--	   <div class="post_box-header">-->
+<!--	      <div class="post_box-options"><button class="option-btn">Reply</button></div>-->
+<!--	      <div style="background: rgb(0, 97, 146) none repeat scroll 0% 0%; box-shadow: rgb(0, 97, 146) 0px 0px 0px 2px;" class="post_box-avatar">{{post.author[0]}}</div>-->
+<!--	      <div class="name-header">{{post.author}}</div>-->
+<!--	      <div class="post_box-subtitle"> Posted at <i>{{readable_time(post.timestamp)}}</i></div>-->
+<!--	   </div>-->
+<!--	   <div>-->
+<!--	      <div class="post_box-body">-->
+<!--	         <p>{{post.content}}</p>-->
+<!--	      </div>-->
+<!--	   </div>-->
+<!--	</div>-->
+<!--	{% endfor %}-->
+{% endblock %}

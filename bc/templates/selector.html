@@ -1,0 +1,35 @@
+<!-- extend base layout -->
+{% extends "base.html" %}
+
+{% block content %}
+<div class="px-4 my-5 text-center">
+    <div class="jumbotron">
+        <h1>This is our program</h1>
+        <p>...</p>
+        <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
+    </div>
+    <h1 class="display-5 fw-bold">Welcome to our system!</h1>
+    <div class="container">
+        <p class="lead mb-4">
+            <strong>Miner</strong> need a lot of storage space to store blockchain information. If you only want to trade, you can choose <strong>client</strong>.
+        </p>
+        <form class="list-group" action="" method="POST">
+            <div class="btn-group" role="group">
+                <div class="container col-lg-6" style="width:500px">
+                    <button type="button" class="btn btn-primary btn-lg btn-block active" name="node_type" id="node_miner" value="node_miner">Miner</button>
+                </div>
+                <div class="container col-lg-6" style="width:500px">
+                    <button type="button" class="btn btn-primary btn-lg btn-block active" name="node_type" id="node_client" value="node_client">Just Client</button>
+                </div>
+
+            </div><br><br>
+            <div class="container " style="width:600px">
+                <input type="submit" class="input-group-text btn btn-lg btn-success" value="Lets go !">
+            </div>
+
+
+        </form>
+    </div>
+</div>
+
+{% endblock %}
